@@ -1,0 +1,51 @@
+body{
+
+background-color: lightblue;
+}
+h1{
+color:blue;
+    text-align: center;
+letter-spacing: 2px;   
+margin-top: 20px; 
+}
+h1 span{
+
+font-size:75px;
+color:black;
+
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+p span{
+    color: red;
+}
+.dev-1{
+    text-decoration: underline;
+    color: blue;
+}
+.dev-a{
+    color: white;
+           background-color:blue;
+}
+
+.span-2{
+background-color: white;
+text-decoration: underline;
+color:blue;
+}
+.h3-vida{
+    background-color: yellow;
+    color:red;
+}
+.img-1 {
+    width: 100px;
+    }
+
+.img-1{
+float: right;
+margin-right: 0px 0px 0px 30px;
+width: 300px;
+height: 38px;
+}
